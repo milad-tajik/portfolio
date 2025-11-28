@@ -1,0 +1,10 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 7200 7200" width="100" height="100">
+	<style>
+		.s0 { fill: #e55a2b } 
+		.s0 { traniton: fill 0.3s;}
+		.s0:hover { fill: #ffffff }
+	</style>
+	<g id="Layer 1">
+		<path id="Shape 1" fill-rule="evenodd" class="s0" d="m2310.88 1036l-603.19 903.77 2332.79-10.98c1213.9 45.57 1109.05 1716.07 36.65 1675.82l-2383.46 16.86-22.67 2671.06 916.48 8.75 23.33-1745.33 1400.32-8.49c2252.53 19.86 2538.2-3487.68-73.34-3510.71z"/>
+	</g>
+</svg>
